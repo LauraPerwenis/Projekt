@@ -47,8 +47,8 @@ nav {
     margin: 5px 0px 5px 20px;
 }
 
-video {
-    max-width: 100%;
+iframe {
+    width: 100%;
 }
 
 footer {
